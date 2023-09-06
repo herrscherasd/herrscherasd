@@ -17,7 +17,7 @@ I'm a software developer with experience in technologies such as Windows, Django
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=herrscherasd&layout=donut&theme=shadow_red)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=herrscherasd&layout=donut&theme=merko)
 
 ## Contact with Me
 
