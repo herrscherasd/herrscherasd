@@ -5,7 +5,7 @@
 
 I'm a software developer with experience in technologies such as Windows, Django, Django REST framework, Python and PostgreSQL.
 
-* 🌍  I'm based in , Kyrgyzstan
+- 🌍  I'm based in , Kyrgyzstan
 - 🌐 I work on web applications using Django and Django REST framework.
 - 📊 PostgreSQL is my default database choice.
 - 🧩 Open to new and exciting projects and collaborations.
@@ -13,7 +13,7 @@ I'm a software developer with experience in technologies such as Windows, Django
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=herrscherasd&count_private=true&show_icons=true&theme=buefy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=herrscherasd)](https://github.com/herrscherasd/github-readme-stats)
 
 ## Top Languages
 
