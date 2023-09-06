@@ -5,7 +5,7 @@
 
 I'm a software developer with experience in technologies such as Windows, Django, Django REST framework, Python and PostgreSQL.
 
-- 🌍  I'm based in , Kyrgyzstan
+- 🌍  I'm based in Osh, Kyrgyzstan
 - 🌐 I work on web applications using Django and Django REST framework.
 - 📊 PostgreSQL is my default database choice.
 - 🧩 Open to new and exciting projects and collaborations.
@@ -13,17 +13,17 @@ I'm a software developer with experience in technologies such as Windows, Django
 
 ## GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=herrscherasd&hide=prs&show_icons=true&theme=shadow_red)](https://github.com/herrscherasd/github-readme-stats)
+[![Asylbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=herrscherasd&hide=prs&show_icons=true&theme=shadow_red&hide_rank=true)](https://github.com/herrscherasd/github-readme-stats)
 
 ## Top Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=herrscherasd&layout=compact)](https://github.com/herrscherasd/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=herrscherasd&layout=donut&theme=shadow_red)](https://github.com/herrscherasd/github-readme-stats)
 
 ## Contact with Me
 
 - 📧 Email: [turdalievasyl@gmail.com](mailto:turdalievasyl@gmail.com)
 - 📸 Instagram: [turdaliev_887](https://www.instagram.com/turdaliev_887/)
-- 🐦 Telegram: [@turdaliev887](https://t.me/Turdaliev887)
+- ✈️ Telegram: [Mugen](https://t.me/Turdaliev887)
 
 ## Support Me
 
