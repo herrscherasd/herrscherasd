@@ -13,11 +13,11 @@ I'm a software developer with experience in technologies such as Windows, Django
 
 ## GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=herrscherasd)](https://github.com/herrscherasd/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=herrscherasd&hide=prs&show_icons=true&theme=shadow_red)](https://github.com/herrscherasd/github-readme-stats)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=herrscherasd&layout=compact&theme=buefy)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=herrscherasd&layout=compact)](https://github.com/herrscherasd/github-readme-stats)
 
 ## Contact with Me
 
