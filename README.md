@@ -13,11 +13,11 @@ I'm a software developer with experience in technologies such as Windows, Django
 
 ## GitHub Stats
 
-[![Asylbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=herrscherasd&hide=prs&show_icons=true&theme=shadow_red&rank_icon=githubinclude_all_commits=true)](https://github.com/herrscherasd/github-readme-stats)
+[![Asylbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=herrscherasd&hide=prs&show_icons=true&theme=shadow_red&rank_icon=github&include_all_commits=true)]
 
 ## Top Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=herrscherasd&layout=donut&theme=shadow_red)](https://github.com/herrscherasd/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=herrscherasd&layout=donut&theme=shadow_red)]
 
 ## Contact with Me
 
