@@ -12,7 +12,7 @@ I'm a software developer with experience in technologies such as Windows, Django
 
 
 ## GitHub Stats
-![Asylbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=herrscherasd(https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats))
+![Asylbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=herrscherasd&hide=prs&show_icons=true&theme=merko&rank_icon=github&include_all_commits=true)
 
 ## Top Languages
 
